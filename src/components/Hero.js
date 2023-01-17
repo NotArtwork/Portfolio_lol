@@ -3,8 +3,7 @@
 const Hero = () => {
     return(
         <div>
-
-            <h1> Antonio Arce</h1>
+            <h1> Antonio Arce </h1>
             <ul>
                 Click Me
                 <li> Projects </li>
