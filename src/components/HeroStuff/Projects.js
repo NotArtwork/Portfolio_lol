@@ -11,7 +11,7 @@ const Projects = () => {
     }
 
     return(
-        <div>
+        <div className="Project_Showcase">
             {projects.map((project) => {
                 return (
                     <Project
